@@ -2,6 +2,7 @@
 layout: default
 title: Student Blog
 ---
+<br> 
 # <center> <span style="color: purple"> ˚₊✩‧₊ Pranavi's Blog </span> </center>
 <center> ❤︎❤︎❤︎ </center>
 
@@ -49,26 +50,26 @@ title: Student Blog
     <table>
         <thead>
             <tr>
-                <th>Header 1</th>
-                <th>Header 2</th>
-                <th>Header 3</th>
+                <th>Song</th>
+                <th>Artist</th>
+                <th>Album</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Row 1, Cell 1</td>
-                <td>Row 1, Cell 2</td>
-                <td>Row 1, Cell 3</td>
+                <td>VETERAN</td>
+                <td>Destroy Lonely, Ken Carson</td>
+                <td>NOSTYLIST</td>
             </tr>
             <tr>
-                <td>Row 2, Cell 1</td>
-                <td>Row 2, Cell 2</td>
-                <td>Row 2, Cell 3</td>
+                <td>The Party & The After Party</td>
+                <td>The Weeknd</td>
+                <td>Trilogy</td>
             </tr>
             <tr>
-                <td>Row 3, Cell 1</td>
-                <td>Row 3, Cell 2</td>
-                <td>Row 3, Cell 3</td>
+                <td>Teenage Fever</td>
+                <td>Drake</td>
+                <td>More Life</td>
             </tr>
         </tbody>
     </table>
