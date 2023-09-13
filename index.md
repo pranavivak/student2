@@ -3,6 +3,9 @@ layout: default
 title: Student Blog
 ---
 <br> 
+
+![]({{ site.baseurl }}/images/pranavisblogcover.png ) 
+
 # <center> <span style="color: purple"> ˚₊✩‧₊ Pranavi's Blog </span> </center>
 <center> ❤︎❤︎❤︎ </center>
 
@@ -15,10 +18,24 @@ title: Student Blog
 ![]({{ site.baseurl }}/images/paintings.png )
  
 ### <center> <span style="color: pink"> My Friends !! </span> </center>
+![]({{ site.baseurl }}/images/friendspic.png ) 
 
 ### <center> <span style="color: pink"> My Free Form Picture </span> </center>
 ![]({{ site.baseurl }}/images/freeform.png ) 
 
+<center>
+  <div class="social-media-links">
+    <a href="https://www.instagram.com/pranavixvakkala/" target="_blank">
+      <img src="images/instagramicon.png" alt="instagram" width="30px" height="30px">
+    </a>
+    <a href="https://poway.instructure.com/" target="_blank">
+      <img src="images/canvasicon.png" alt="canvas" width="30px" height="30px">
+    </a>
+    <a href="https://github.com/nighthawkcoders/student" target="_blank">
+      <img src="images/githubicon.png" alt="github" width="30px" height="30px">
+    </a>
+  </div>
+</center>
 
 <html>
 <head>
@@ -45,7 +62,7 @@ title: Student Blog
     </style>
 </head>
 <body>
-    <h1>Pink Table Example</h1>
+    <h1>Current Favorite Songs</h1>
 
     <table>
         <thead>
