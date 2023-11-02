@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Passion Project - The Code that I Comitted
+title: Issue Extra Credit
 type: tangibles
 courses: { compsci: {week: 7 } }
 ---
