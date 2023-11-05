@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 title: Issue Extra Credit
-type: tangibles
+type: Hacks
 courses: { compsci: {week: 7 } }
 ---
 
