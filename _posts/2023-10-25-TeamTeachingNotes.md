@@ -26,3 +26,10 @@ courses: { compsci: {week: 7 } }
 2. Standard Library: Python comes with a comprehensive standard library that includes modules for various tasks, such as working with files, networking, data processing, and more. These modules are readily available and do not require installation.
 
 3. Third-party Libraries: In addition to the standard library, there is a vast ecosystem of third-party libraries created by the Python community. These libraries cover a wide range of domains, including web development, data analysis, machine learning, game development, and more. Some popular third-party libraries include NumPy, Pandas, Matplotlib, TensorFlow, Django, Flask, and many others.
+
+## Algorithmic Efficiency
+- - A problem is a general description of a task that can (or cannot) be solved algorithmically
+    - A decision problem is a problem with a yes/no answer
+    - An optimization problem is a problem with the goal of finding the "best" solution among many
+- Efficiency is an estimate of the amount of computational resources used by an algorithm
+- An algorithm's efficiency is determined through formal or mathematically reasoning
