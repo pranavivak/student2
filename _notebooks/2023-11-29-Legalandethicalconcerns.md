@@ -132,12 +132,15 @@ Data Privacy and Security:
 
 # <span style="color:cadetblue">Homework</span>
 
-1. Describe the key differences between the Creative Commons Zero v1.0 Universal, Open Source MIT License, and Open Source GPL License.
+## Describe the key differences between the Creative Commons Zero v1.0 Universal, Open Source MIT License, and Open Source GPL License. 
 
-2. Give examples that illustrate how companies, such as Qualcomm and Red Hat, have leveraged Open Source licenses to establish unique business models.
+Creative Commons Zero v1.0 Universal (CC0): With this license, authors can essentially release their works into the public domain by waiving all copyright and related rights. Text and image-based content are frequently employed with it. Open Source MIT License: Under this permissive license, users are free to modify the code in any way they see fit as long as they give credit to the original author and licensing notice. Projects involving software frequently use it.Open Source GPL License: Any derivative work must adhere to the terms of the GNU General Public License (GPL), which guarantees the unrestricted availability of the source code. The most recent version of the GPL is GPL-3.0. There are other variants as well.
 
-3. Why are businesses that heavily rely on Open Source software still need to generate income and how they manage this within the constraints of Open Source licenses.
+## Give examples that illustrate how companies, such as Qualcomm and Red Hat, have leveraged Open Source licenses to establish unique business models. 
 
-# <span style="color:cadetblue">Extra Credit</span>
+Qualcomm: Qualcomm has contributed to the Android operating system by using open source software development to create applications for its chipsets. Qualcomm benefits from Android's open-source nature, which gives its products a wider market. Red Hat: Red Hat has become a profitable company by offering services and support to businesses that use open-source software, especially the Linux operating system. They provide access to their knowledge and assistance through a subscription model.
 
-Explain the significance of choosing an appropriate license for personal and team GitHub repositories, especially for the CPT project. How does this relate to the broader themes of legal and ethical concerns in computing?
+## Why are businesses that heavily rely on Open Source software still need to generate income and how they manage this within the constraints of Open Source licenses. 
+
+Diversified Services: Companies that use open source software frequently make money by offering advice, assistance, and customisation services for the software they use, guaranteeing stability and security.Dual Licensing: A few businesses adopt a dual licensing approach whereby they provide their software as open-source and charge a commercial license to those who want to use it in proprietary products without giving away the source code.
+
