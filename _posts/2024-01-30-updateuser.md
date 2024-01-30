@@ -1,7 +1,7 @@
 ---
 comments: True
 layout: post
-title: Edit User N
+title: Update
 description: cooking
 courses: { compsci: {week: 12} }
 type: tangibles
