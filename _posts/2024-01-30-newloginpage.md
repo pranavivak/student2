@@ -6,7 +6,7 @@ title: Login
 permalink: /login
 description: Login to the database
 type: hacks
-courses: { compsci: { week: 13 } }
+courses: { compsci: { week: 12 } }
 ---
 
 <style>
