@@ -25,7 +25,7 @@ courses: { compsci: {week: 12} }
   </tbody>
 </table>
 <div>
-  <a href = "{{site.baseurl}}/editUser">Edit User</a>
+  <a href = "{{site.baseurl}}/editUsers">Edit User</a>
 </div>
 <div>
   <a href = "{{site.baseurl}}/newUser">New User</a>
