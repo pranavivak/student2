@@ -1,13 +1,14 @@
 ---
-comments: true
+comments: True
 layout: post
 toc: false
 title: Login Page
-permalink: /login
-description: Login to the database
-type: hacks
+description: A login screen that interacts with Python and obtains a JWT
+type: tangibles
 courses: { compsci: { week: 12 } }
+hide: true
 ---
+
 
 <!-- 
 A simple HTML login form with a Login action when the button is pressed.  
