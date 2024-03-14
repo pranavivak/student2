@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Final Review | CPT, CB Reqs, & more
+title: Trimester 3 Seed | CPT, CB Reqs, & more
 type: Hacks
 courses: { compsci: {week: 12 } }
 ---
@@ -40,3 +40,6 @@ In terms of the overall trimester, working on the CPT project was a holistic lea
 Looking back, I am proud of what our team has accomplished. Our CPT project not only met the initial goals of creating a Spotify replica but also provided us with a platform to showcase our individual and collective strengths. The experience has deepened my appreciation for the complexities of software development and fueled my enthusiasm for future projects.
 
 In conclusion, this trimester has been a journey of growth, collaboration, and achievement. The challenges I faced and overcame during the development of the Playlists feature and the login page have enriched my skill set and reinforced the importance of teamwork in achieving ambitious goals. I am confident that the skills and experiences gained during this project will serve as a solid foundation for my future endeavors in the field of computer science and software development.
+
+![]({{ site.baseurl }}/images/keycommits1.png ) 
+![]({{ site.baseurl }}/images/keycommits2.png ) 
