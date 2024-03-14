@@ -41,5 +41,8 @@ Looking back, I am proud of what our team has accomplished. Our CPT project not 
 
 In conclusion, this trimester has been a journey of growth, collaboration, and achievement. The challenges I faced and overcame during the development of the Playlists feature and the login page have enriched my skill set and reinforced the importance of teamwork in achieving ambitious goals. I am confident that the skills and experiences gained during this project will serve as a solid foundation for my future endeavors in the field of computer science and software development.
 
-![]({{ site.baseurl }}/images/keycommits1.png ) 
-![]({{ site.baseurl }}/images/keycommits2.png ) 
+<br> 
+
+![]({{ site.baseurl }}/images/pranavisblogcover.png ) 
+
+<html>
