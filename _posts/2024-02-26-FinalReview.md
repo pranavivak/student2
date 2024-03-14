@@ -43,6 +43,7 @@ In conclusion, this trimester has been a journey of growth, collaboration, and a
 
 <br> 
 
-![]({{ site.baseurl }}/images/pranavisblogcover.png ) 
+![]({{ site.baseurl }}/images/keycommits1.png ) 
+![]({{ site.baseurl }}/images/keycommits2.png ) 
 
 <html>
