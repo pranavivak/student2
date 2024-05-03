@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Trimester 3 Writeup data structure | CPT, CB Reqs, & more
 type: Hacks
-courses: { compsci: {week: 12 } }
+courses: { compsci: {week: 11 } }
 ---
 
 
